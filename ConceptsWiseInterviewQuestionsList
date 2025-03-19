@@ -6,4 +6,4 @@ a. CORE JAVA:
  5. How to create your own custom immutable claas in kava?
  6. what is Marker interface?
  7. Different between String vs StringBuffer vs StringBuilder?
- 8. java 8 featurres( functional interfaces, lambda expressions, method refference, stream apo( intermediate and terminsl operations).
+ 8. java 8 featurres( functional interfaces, lambda expressions, method refference, stream api( intermediate and terminal operations).
