@@ -7,3 +7,5 @@ a. CORE JAVA:
  6. what is Marker interface?
  7. Different between String vs StringBuffer vs StringBuilder?
  8. java 8 featurres( functional interfaces, lambda expressions, method refference, stream api( intermediate and terminal operations).
+ 9. fail safe and fail fast collectionsin java?
+ 10. regular expressions like based on comma or soace split string programs?
