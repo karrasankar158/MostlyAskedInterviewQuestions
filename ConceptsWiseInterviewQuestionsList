@@ -1,4 +1,4 @@
-a. CORE JAVA:
+A. CORE JAVA:
  1. Explain about Polymorphism, types, scenerio based interview programs.
  2. Composition and aggregation in inheritance.
  3. == and equal difference.
@@ -12,3 +12,14 @@ a. CORE JAVA:
  11. What is Exception, Exception hierarchy?
  12. Difference between throw vs Throws?
  13. Difference between HashMap and ConcurrentHashMap?
+
+B. ADVANCED JAVA:
+C. SPRING BOOT:
+D. WEBSERVICES:
+E. SQL:
+   1. different between delete vs truncate vs drop?
+   2. explain different types of joins?
+   
+F. APACHE KAFKA:
+G. AWS:
+H. PROJECT MANAGER ROUND:
