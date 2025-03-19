@@ -51,8 +51,8 @@ E. SQL:
    
 F. APACHE KAFKA:
 G. AWS:
-   1. What AWS services do you know?
-   2. What is the use of roles and policies of IAM?
+   1. What are AWS services do you know?
+   2. What is the use of roles and policies in AWS IAM?
    3. What is a load balancer, and what are its types (Application, Network, Gateway)?
    4. What are inbound and outbound rules?
    5. What storage classes are available in an S3 bucket?
