@@ -52,6 +52,8 @@ C. SPRING BOOT:
 D. HIBERNATE:
 E. SPRING SECURITY:
 D. WEBSERVICES:
+F. DOCKER:
+H. KUBERNETES:
 E. SQL:
    1. different between delete vs truncate vs drop?
    2. explain different types of joins?
