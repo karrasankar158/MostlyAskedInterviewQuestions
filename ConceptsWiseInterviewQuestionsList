@@ -1,17 +1,45 @@
-A. CORE JAVA:
- 1. Explain about Polymorphism, types, scenerio based interview programs.
- 2. Composition and aggregation in inheritance.
- 3. == and equal difference.
+A. OOPs (OBJECT ORIENTED PROGRAMMING):
+   1. Explain polymorphism, its types, and scenario-based interview programs.
+   2. Composition and aggregation in inheritance.
+   3. Difference between == and .equals().
+   4. How do you create a custom immutable class in Java?
+   5. what is the Marker interface?
+   6. Difference between String, StringBuffer, and StringBuilder?
+-------------------------------------------------------------------------------------------------------------------------------------
+B. MULTITHREADING:
+   1. What is multithreading?
+   2. What is the thread scheduler?
+   3. How many ways are there to create a thread in Java?
+   4. What is the default thread in Java?
+   5. What is the volatile keyword, and when should it be used?
+   6. How do we overcome data inconsistency problems, and what is the difference between synchronized, volatile, and atomic?
+   7. How do we resolve deadlocks in multithreading in Java?
+   8. What is ExecutorService (Thread Pools), and what are the differences between the submit() and execute() methods?
+   9. What is ThreadLocal?
+   10. What is a daemon thread?
+   11. What is thread safety?
+   12. What is synchronization, and what is a synchronized block?
+   13. Explain the thread life cycle.
+   14. What is the difference between join(), sleep(), and wait() methods?
+   15. What is a green thread?
+   16. How do we resolve race conditions?
+   17. What happens if we call thread.start() twice?
+   18. What is the difference between Callable and Runnable in multithreading?
+   19. What is the Future interface in multithreading in Java?
+   20. What is CompletableFuture in multithreading?
+   21. What is the difference between Future and CompletableFuture?
+   22. What are CountDownLatch, CyclicBarrier, Semaphore, Exchanger, and Phaser?
+------------------------------------------------------------------------------------------------------------------------------------------------------
  4. Hashmap internal working?
- 5. How to create your own custom immutable claas in kava?
- 6. what is Marker interface?
- 7. Different between String vs StringBuffer vs StringBuilder?
+
  8. Java 8 featurres( functional interfaces, lambda expressions, method refference, stream api( intermediate and terminal operations).
  9. Fail safe and fail fast collectionsin java?
- 10. Regular expressions like based on comma or soace split string programs?
+ 10. Regular expressions like based on comma or space split string programs?
  11. What is Exception, Exception hierarchy?
  12. Difference between throw vs Throws?
  13. Difference between HashMap and ConcurrentHashMap?
+ 
+  
 
 B. ADVANCED JAVA:
 C. SPRING BOOT:
