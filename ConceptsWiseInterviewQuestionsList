@@ -2,4 +2,7 @@ a. CORE JAVA:
  1. Explain about Polymorphism, types, scenerio based interview programs.
  2. Composition and aggregation in inheritance.
  3. == and equal difference.
- 4. 
+ 4. Hashmap internal working?
+ 5. How to create your own custom immutable claas in kava?
+ 6. what is Marker interface?
+ 7. Different between String vs StringBuffer vs StringBuilder?
