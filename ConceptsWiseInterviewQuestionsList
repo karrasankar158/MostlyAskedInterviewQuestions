@@ -5,9 +5,16 @@ A. OOPs (OBJECT ORIENTED PROGRAMMING):
    4. How do you create a custom immutable class in Java?
    5. what is the Marker interface?
    6. Difference between String, StringBuffer, and StringBuilder?
--------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-B. MULTITHREADING:
+B. EXCEPTION HANDLING:
+   1. What is an Exception in Java, and what does the Exception hierarchy look like?
+   2. What is the difference between throw and throws in Java?
+   3. What is Exception Propagation in Java, and how does it work?
+   4. What is rethrowing an Exception in Java, and when is it used?
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+C. MULTITHREADING:
    1. What is multithreading?
    2. What is the thread scheduler?
    3. How many ways are there to create a thread in Java?
@@ -36,9 +43,7 @@ B. MULTITHREADING:
  8. Java 8 featurres( functional interfaces, lambda expressions, method refference, stream api( intermediate and terminal operations).
  9. Fail safe and fail fast collectionsin java?
  10. Regular expressions like based on comma or space split string programs?
- 11. What is Exception, Exception hierarchy?
- 12. Difference between throw vs Throws?
- 13. Difference between HashMap and ConcurrentHashMap?
+ 11. Difference between HashMap and ConcurrentHashMap?
  
   
 
