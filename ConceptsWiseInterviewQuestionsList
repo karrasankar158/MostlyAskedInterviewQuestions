@@ -9,3 +9,5 @@ a. CORE JAVA:
  8. Java 8 featurres( functional interfaces, lambda expressions, method refference, stream api( intermediate and terminal operations).
  9. Fail safe and fail fast collectionsin java?
  10. Regular expressions like based on comma or soace split string programs?
+ 11. What is Exception, Exception hierarchy?
+ 12. Difference between hrow vs Thriws?
