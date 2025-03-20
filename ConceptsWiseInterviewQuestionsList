@@ -71,6 +71,7 @@ G. AWS:
    9. What is the SQS service in AWS, and how can we send messages?
    10. What is the AWS Secrets Manager service, and what is its use?
    11. What is the use of AWS CloudWatch( mostly container and application logs monitor)?
+   12. Tell me which commands used to create and delete S3 bucket by using AWS CLI?
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 H. PROJECT MANAGER ROUND:
