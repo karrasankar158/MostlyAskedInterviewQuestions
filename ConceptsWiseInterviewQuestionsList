@@ -39,7 +39,7 @@ C. MULTITHREADING:
    22. What are CountDownLatch, CyclicBarrier, Semaphore, Exchanger, and Phaser?
 ------------------------------------------------------------------------------------------------------------------------------------------------------
  4. Hashmap internal working?
-
+  
  8. Java 8 featurres( functional interfaces, lambda expressions, method refference, stream api( intermediate and terminal operations).
  9. Fail safe and fail fast collectionsin java?
  10. Regular expressions like based on comma or space split string programs?
@@ -49,7 +49,25 @@ C. MULTITHREADING:
 
 B. ADVANCED JAVA:
 C. SPRING BOOT:
-D. HIBERNATE:
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+D. HIBERNATE AND JPA:
+   1. What is Hibernate?
+   2. Can you explain a few Hibernate Generators?
+   3. What are the different ways to write HQL queries?
+   4. When should we choose HQL vs. Native SQL vs. Criteria API?
+   5. What is Level 1 cache and Level 2 cache? What is the difference between Session and SessionFactory?
+   6. What is the difference between the load() and get() methods in Hibernate?
+   7. What is the difference between the save() and persist() methods in Hibernate?
+   8. What is the difference between the update() and merge() methods in Hibernate?
+   9. How does versioning work in Hibernate? How is versioning handled in Spring Boot?
+   10. What is FetchType in Hibernate?
+   11. What are the different types of fetch strategies in Hibernate?
+   12. In the four types of association mappings, is there a default fetch type for all?
+   13. How do you write a finder method to display names from an Employee table where names start with 'S'?
+   14. How do you write a finder method to retrieve a list of employees based on their department?  //Questions may be asked about similar finder methods.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 E. SPRING SECURITY:
 D. WEBSERVICES:
 F. DOCKER:
@@ -59,6 +77,8 @@ E. SQL:
    2. explain different types of joins?
    
 F. APACHE KAFKA:
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 G. AWS:
    1. What are AWS services do you know?
    2. What is the use of roles and policies in AWS IAM?
