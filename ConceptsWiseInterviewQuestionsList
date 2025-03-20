@@ -66,6 +66,7 @@ D. HIBERNATE AND JPA:
    12. In the four types of association mappings, is there a default fetch type for all?
    13. How do you write a finder method to display names from an Employee table where names start with 'S'?
    14. How do you write a finder method to retrieve a list of employees based on their department?  //Questions may be asked about similar finder methods.
+   15. How does EntityManager work in Hibernate?
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 E. SPRING SECURITY:
