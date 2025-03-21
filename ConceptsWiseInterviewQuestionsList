@@ -105,6 +105,13 @@ I. HIBERNATE AND JPA:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 J. SPRING SECURITY:
+   1. What is the Spring Boot Security Configuration class? Explain the configure method.
+   2. What is Authentication in Spring Security?
+   3. What is Authorization in Spring Security?
+   4. How does role-based authorization work in Spring Security?
+   5. How can we secure a Spring Boot controller endpoint(@Secured or  @PreAuthorize)?
+   6. What is JWT (JSON Web Token), and how does the authentication process work using JWT?
+   7. What is OAuth2, and how does it work in Spring Security?
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 K. WEBSERVICES:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
