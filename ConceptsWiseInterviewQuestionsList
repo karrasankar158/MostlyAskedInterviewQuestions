@@ -140,10 +140,12 @@ O. APACHE KAFKA:
 P. SPRING CLOUD/(Microservices):
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Q. GANGE OF FOUR DESIGN PATTERNS:
-   1. Singleton Sign Pattern?
-   2. Strategy Design Pattern?
-   3. Factory Design Pattern?
-   4. State Design Pattern?
+   1. Singleton Sign Pattern?(Creational)
+   2. Strategy Design Pattern?(Behavarior)
+   3. Factory Design Pattern?(Creational)
+   4. State Design Pattern?(Behavarior)
+   5. Composite Design Pattern?(Structural)
+   6. Decorator Design Pattern?(Structural)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 R. MICROSERVICES DESIGN PATTERNS:
    1. Saga Design Pattern?
@@ -168,3 +170,7 @@ S. AWS:
 T. PROJECT MANAGER ROUND:
    1. How can you motivate your team effectively? 
    2. How do you handle unproductive team members?
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+U. Tools:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
