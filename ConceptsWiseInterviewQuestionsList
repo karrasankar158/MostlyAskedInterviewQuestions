@@ -140,8 +140,15 @@ O. APACHE KAFKA:
 P. SPRING CLOUD/(Microservices):
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Q. GANGE OF FOUR DESIGN PATTERNS:
+   1. Singleton Sign Pattern?
+   2. Strategy Design Pattern?
+   3. Factory Design Pattern?
+   4. State Design Pattern?
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 R. MICROSERVICES DESIGN PATTERNS:
+   1. Saga Design Pattern?
+      a. Orchestration, b. Choreography.
+   2. 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 S. AWS:
    1. What are AWS services do you know?
