@@ -58,7 +58,17 @@ F. JAVA8 FEATURES:
    3. What are the new methods added in the Date API in Java 8?
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-G. ADVANCED JAVA:
+G. ADVANCED JAVA(JDBC/SERVLET/JSP):
+   1. What is boilerplate code?
+   2. What are the steps to connect to an Oracle database?
+   3. What is a DispatcherServlet?
+   4. What is the difference between doGet and doPost?
+   5. What is the difference between idempotent and non-idempotent methods (GET vs POST)?
+   6. What are the lifecycle methods of Servlet and JSP?
+   7. What is the difference between ServletConfig and ServletContext?
+   8. What is the difference between a Type-3 driver and a Type-4 driver?
+   9. What are some commonly used JSP tags?
+   10. What is a namespace in JSP?
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 H. SPRING BOOT:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -181,6 +191,16 @@ U. Tools:
         3. What is the difference between merge and rebase?
         4. What is git log, and how can you see all commit messages with commit IDs?
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 V. Spring Reactive Programming:
    1. What is Mono?
    2. What is Flux?
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+W. PROJECT DEVELOPMENT CHALLENGES:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+X. STREAM API PROGRAMS:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Y. STRING/ARRAYS PROGRAMS:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Z. HACKERRANK/LEETCODE PROGRAMS:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
