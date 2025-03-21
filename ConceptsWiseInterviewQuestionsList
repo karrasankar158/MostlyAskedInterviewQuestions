@@ -70,7 +70,21 @@ G. ADVANCED JAVA(JDBC/SERVLET/JSP):
    9. What are some commonly used JSP tags?
    10. What is a namespace in JSP?
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-H. SPRING BOOT:
+H. SPRING/SPRING BOOT:
+   1. What are the features of Spring Boot? (AutoConfiguration, Starter Projects, Spring Initializer, Embedded Servers, Embedded Databases, Actuator Support, DevTools, etc.)
+   2. What is the difference between @Qualifier and @Primary in Spring Boot?
+   3. How does @Controller differ from @RestController in Spring Boot?
+   4. What is the difference between BeanFactory Container and ApplicationContext Container in Spring?
+   5. What is Dependency Injection in Spring, and what are its types? (Field Injection, Setter Injection, Constructor Injection, etc.)
+   6. What are the different Spring bean scopes?
+   7. What is the Spring Bean Lifecycle?
+   8. What is the difference between @PreDestroy and @PostConstruct annotations? When should we use @PostConstruct?
+   9. What is AutoWiring in Spring?
+   10. What are Stereotype Annotations in Spring Boot?
+   11. What is Inversion of Control (IoC) in Spring?
+   12. What is a Spring Container?
+   13. What is the difference between @Resource, @Autowired, and @Inject in Spring Boot?
+   14. What is the difference between Singleton and Prototype bean scopes in Spring?
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 I. HIBERNATE AND JPA:
    1. What is Hibernate?
@@ -203,4 +217,6 @@ X. STREAM API PROGRAMS:
 Y. STRING/ARRAYS PROGRAMS:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Z. HACKERRANK/LEETCODE PROGRAMS:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+AA. JUNITS/MOCKITO:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
