@@ -73,9 +73,56 @@ E. SPRING SECURITY:
 D. WEBSERVICES:
 F. DOCKER:
 H. KUBERNETES:
-E. SQL:
-   1. different between delete vs truncate vs drop?
-   2. explain different types of joins?
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+E. Oracle(SQL/PLSQL) and MySQL:
+   1. What is Normalization and its types (1st, 2nd, 3rd, 4th, 5th)?
+   2. Explain DDL, DML, DQL, DRL, TCL, and DCL.
+   3. Primary key vs. composite primary key vs. foreign key.
+   4. Why is an alias used to refer to columns?
+   5. Explain the ALTER command in SQL.
+   6. Explain constraints like UNIQUE, NOT NULL, CHECK, etc.
+   7. Explain cursors in Oracle and their types.
+   8. Difference between DELETE, TRUNCATE, and DROP.
+   9. Difference between DISTINCT and UNIQUE.
+   10. How to find the 5th highest salary in Oracle?
+   11. How to find the second-highest salary in Oracle and MySQL?
+   12. Primary key vs. unique key.
+   13. What is ROWNUM?
+   14. Write an SQL query to increment salary by 10%.
+   15. What are sequences in Oracle?
+   16. How to use GROUP BY in SQL? Explain with one scenario.
+   17. Explain set operators (UNION, UNION ALL, INTERSECT, MINUS).
+   18. Explain the SQL Injection problem and its solutions.
+   19. Explain SQL Injection types.
+   20. How to revert the last SQL statement (ROLLBACK)?
+   21. What are indexes in SQL and their types?
+   22. What is the difference between DROP, FLASHBACK, and PURGE?
+   23. Explain different types of joins.
+   24. Explain the difference between SQL and NoSQL databases with examples.
+   25. Explain views in Oracle.
+   26. What are locks and the types of locks in Oracle?
+   27. What is the difference between GROUP BY and window functions in SQL?
+   28. Write an SQL query to find the number of employees by gender whose DOB is between 01/01/1960 and 31/12/1975.
+   29. Write an SQL query to find the names of employees whose names start with 'M'.
+   30. Write an SQL query to find all employees belonging to the HR department and whose gender is male.
+   31. What are transactional triggers? Explain their uses.
+   32. Difference between ROWID and ROWNUM.
+   33. Write an SQL query to display the number of employees working in each job.
+   34. Write a query to display the average, maximum, and minimum salaries for each job.
+   35. What is the RANK() function in Oracle?
+   36. What are synonyms in Oracle?
+   37. What are stored procedure modes (IN, OUT, INOUT)?
+   38. Write an SQL query to find the maximum salary from each department?
+   39. Write an SQL Query to find an employee whose Salary is equal or greater than 10000? 
+   40. What is the maximum no. Of columns a table can have? 
+   41. Difference between procedure and function? 
+   42. What is grant and revoke in Oracle? 
+   43. Write a SQL query to get list of employees whose names contains 4-characters? 
+   44. Tell me few of Aggregate or grouping functions (sum(), avg(), min(), max(), count()? 
+   45. Write an SQL query to display employee salaries in ascending or descending order? 
+   46. Difference between where vs having? 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
    
 F. APACHE KAFKA:
 SPRING CLOUD:
