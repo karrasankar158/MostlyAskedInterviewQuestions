@@ -176,6 +176,10 @@ T. PROJECT MANAGER ROUND:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 U. Tools:
+   Git: 1. What is a Git conflict?
+        2. What is a Git stash?
+        3. What is the difference between merge and rebase?
+        4. What is git log, and how can you see all commit messages with commit IDs?
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 V. Spring Reactive Programming:
    1. What is Mono?
