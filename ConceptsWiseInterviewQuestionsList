@@ -37,21 +37,33 @@ C. MULTITHREADING:
    20. What is CompletableFuture in multithreading?
    21. What is the difference between Future and CompletableFuture?
    22. What are CountDownLatch, CyclicBarrier, Semaphore, Exchanger, and Phaser?
-------------------------------------------------------------------------------------------------------------------------------------------------------
- 4. Hashmap internal working?
-  
- 8. Java 8 featurres( functional interfaces, lambda expressions, method refference, stream api( intermediate and terminal operations).
- 9. Fail safe and fail fast collectionsin java?
- 10. Regular expressions like based on comma or space split string programs?
- 11. Difference between HashMap and ConcurrentHashMap?
- 
-  
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-B. ADVANCED JAVA:
-C. SPRING BOOT:
+D. REGULAR EXPRESSIONS:
+   1. How can you use regular expressions to split a string based on commas or spaces in Java?
+   2. How can you validate an email address using regular expressions in Java?
+   3. How can you extract only numeric values from a given string using regular expressions in Java?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+E. COLLECTIONS FRAMEWORK:
+   1. Hashmap internal working?
+   2. Fail safe and fail fast collectionsin java?
+   3. Difference between HashMap and ConcurrentHashMap?
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+F. JAVA8 FEATURES:
+   1. Java 8 Features: Explain functional interfaces, lambda expressions, method references, and the Stream API (intermediate and terminal operations).
+   2. Tell me about the Optional API and how it helps resolve NullPointerException.
+   3. What are the new methods added in the Date API in Java 8?
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+G. ADVANCED JAVA:
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+H. SPRING BOOT:
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-D. HIBERNATE AND JPA:
+I. HIBERNATE AND JPA:
    1. What is Hibernate?
    2. Can you explain a few Hibernate Generators?
    3. What are the different ways to write HQL queries?
@@ -69,13 +81,13 @@ D. HIBERNATE AND JPA:
    15. How does EntityManager work in Hibernate?
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-E. SPRING SECURITY:
-D. WEBSERVICES:
-F. DOCKER:
-H. KUBERNETES:
+J. SPRING SECURITY:
+K. WEBSERVICES:
+L. DOCKER:
+M. KUBERNETES:
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-E. Oracle(SQL/PLSQL) and MySQL:
+N. Oracle(SQL/PLSQL) and MySQL:
    1. What is Normalization and its types (1st, 2nd, 3rd, 4th, 5th)?
    2. Explain DDL, DML, DQL, DRL, TCL, and DCL.
    3. Primary key vs. composite primary key vs. foreign key.
@@ -124,14 +136,14 @@ E. Oracle(SQL/PLSQL) and MySQL:
    46. Difference between where vs having? 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
    
-F. APACHE KAFKA:
-SPRING CLOUD:
+O. APACHE KAFKA:
+P. SPRING CLOUD:
 
-GANGE OF FOUR DESIGN PATTERNS:
-MICROSERVICES DESIGN PATTERNS:
+Q. GANGE OF FOUR DESIGN PATTERNS:
+R. MICROSERVICES DESIGN PATTERNS:
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-G. AWS:
+S. AWS:
    1. What are AWS services do you know?
    2. What is the use of roles and policies in AWS IAM?
    3. What is a load balancer, and what are its types (Application, Network, Gateway)?
@@ -146,6 +158,6 @@ G. AWS:
    12. Tell me which commands used to create and delete S3 bucket by using AWS CLI?
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-H. PROJECT MANAGER ROUND:
+T. PROJECT MANAGER ROUND:
    1. How can you motivate your team effectively? 
    2. How do you handle unproductive team members?
