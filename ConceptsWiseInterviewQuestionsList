@@ -119,7 +119,7 @@ L. DOCKER:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 M. KUBERNETES:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-N. Oracle(SQL/PLSQL) and MySQL:
+N. Oracle(SQL/PLSQL), MySQL/Mongo DB:
    1. What is Normalization and its types (1st, 2nd, 3rd, 4th, 5th)?
    2. Explain DDL, DML, DQL, DRL, TCL, and DCL.
    3. Primary key vs. composite primary key vs. foreign key.
@@ -166,6 +166,7 @@ N. Oracle(SQL/PLSQL) and MySQL:
    44. Tell me few of Aggregate or grouping functions (sum(), avg(), min(), max(), count()? 
    45. Write an SQL query to display employee salaries in ascending or descending order? 
    46. Difference between where vs having? 
+   47. If MongoDB is mentioned in the job description, will they ask about MongoDB commands?
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 O. APACHE KAFKA:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
