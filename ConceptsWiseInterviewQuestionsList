@@ -7,6 +7,7 @@ A. OOPs (OBJECT ORIENTED PROGRAMMING):
    6. Difference between String, StringBuffer, and StringBuilder?
    7. Explain SOLID Principles. 
    8. What is Garbase Collector? 
+   9. Why are String Immutable?
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 B. EXCEPTION HANDLING:
@@ -51,6 +52,7 @@ E. COLLECTIONS FRAMEWORK:
    1. Hashmap internal working?
    2. Fail safe and fail fast collectionsin java?
    3. Difference between HashMap and ConcurrentHashMap?
+   4. Difference between Comparable and Comparator?
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 F. JAVA8 FEATURES:
@@ -71,6 +73,7 @@ G. ADVANCED JAVA(JDBC/SERVLET/JSP):
    9. What are some commonly used JSP tags?
    10. What is a namespace in JSP?
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 H. SPRING/SPRING BOOT:
    1. What are the features of Spring Boot? (AutoConfiguration, Starter Projects, Spring Initializer, Embedded Servers, Embedded Databases, Actuator Support, DevTools, etc.)
    2. What is the difference between @Qualifier and @Primary in Spring Boot?
@@ -87,6 +90,7 @@ H. SPRING/SPRING BOOT:
    13. What is the difference between @Resource, @Autowired, and @Inject in Spring Boot?
    14. What is the difference between Singleton and Prototype bean scopes in Spring?
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 I. HIBERNATE AND JPA:
    1. What is Hibernate?
    2. Can you explain a few Hibernate Generators?
@@ -105,6 +109,7 @@ I. HIBERNATE AND JPA:
    15. How does EntityManager work in Hibernate?
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 J. SPRING SECURITY:
    1. What is the Spring Boot Security Configuration class? Explain the configure method.
    2. What is Authentication in Spring Security?
@@ -114,15 +119,19 @@ J. SPRING SECURITY:
    6. What is JWT (JSON Web Token), and how does the authentication process work using JWT?
    7. What is OAuth2, and how does it work in Spring Security?
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 K. WEBSERVICES:
    1. 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 L. DOCKER:
    1. 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 M. KUBERNETES:
    1. 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 N. Oracle(SQL/PLSQL), MySQL/Mongo DB:
    1. What is Normalization and its types (1st, 2nd, 3rd, 4th, 5th)?
    2. Explain DDL, DML, DQL, DRL, TCL, and DCL.
@@ -172,12 +181,15 @@ N. Oracle(SQL/PLSQL), MySQL/Mongo DB:
    46. Difference between where vs having? 
    47. If MongoDB is mentioned in the job description, will they ask about MongoDB commands?
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 O. APACHE KAFKA:
    1. 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 P. SPRING CLOUD/(Microservices):
-   1. 
+   1. What is the Difference between Monolithic Architecture and Microservices Architecture?
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Q. GANGE OF FOUR DESIGN PATTERNS:
    1. Singleton Sign Pattern?(Creational)
    2. Strategy Design Pattern?(Behavarior)
@@ -186,6 +198,7 @@ Q. GANGE OF FOUR DESIGN PATTERNS:
    5. Composite Design Pattern?(Structural)
    6. Decorator Design Pattern?(Structural)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 R. MICROSERVICES DESIGN PATTERNS:
    1. Saga Design Pattern?
       a. Orchestration, b. Choreography.
@@ -193,6 +206,7 @@ R. MICROSERVICES DESIGN PATTERNS:
    3. Circut Breaker Design Pattern?
    4. CQRS Design Pattern?
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 S. AWS:
    1. What are AWS services do you know?
    2. What is the use of roles and policies in AWS IAM?
@@ -224,23 +238,29 @@ V. Spring Reactive Programming:
    1. What is Mono?
    2. What is Flux?
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 W. PROJECT DEVELOPMENT CHALLENGES:
    1. 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 X. STREAM API PROGRAMS:
    1. 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Y. STRING/ARRAYS PROGRAMS:
    1. 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Z. HACKERRANK/LEETCODE PROGRAMS:
    1. 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 AA. JUNITS/MOCKITO:
     1. What is a Mock?
     2. When do we use @BeforeEach?
     3. Where should we place common code for all test cases that must load at test class loading time?
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 AB. JVM ARCHITECTURE:
     1. What is the difference between JDK, JVM, and JRE?
     2. How does the Java Class Loader work, and what are its types?
@@ -252,6 +272,7 @@ AB. JVM ARCHITECTURE:
     8. What happens if the .class file is not found in any classloader?
     9. How does Java program execution work?
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 AC. CAN YOU PROVIDE A SCENARIO WHERE THIS EXCEPTION WILL BE THROWN:
     1. ClassNotFoundException?
     2. NullPointerException?
