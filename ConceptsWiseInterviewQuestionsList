@@ -240,3 +240,7 @@ AB. JVM ARCHITECTURE:
     8. What happens if the .class file is not found in any classloader?
     9. How does Java program execution work?
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+AC. CAN YOU PROVIDE A SCENARIO WHERE THIS EXCEPTION WILL BE THROWN:
+    1. ClassNotFoundException?
+    2. NullPointerException?
+    3. 
