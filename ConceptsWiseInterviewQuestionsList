@@ -230,10 +230,13 @@ Z. HACKERRANK/LEETCODE PROGRAMS:
 AA. JUNITS/MOCKITO:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 AB. JVM ARCHITECTURE:
-    1. Difference between JDK vs JVM vs JRE?
-    2. How Java Class Loader Will works and types?
-    3. Various Memory Atreas in JVM?
-    4. What is JIT Compiler?
-    5. Which Memory Area Objects are stored?
-    6. Explain about Delegation Hierarchy Algorithm? 
+    1. What is the difference between JDK, JVM, and JRE?
+    2. How does the Java Class Loader work, and what are its types?
+    3. What are the various memory areas in the JVM?
+    4. What is the JIT (Just-In-Time) Compiler?
+    5. Where are objects created in the JVM?
+    6. Where are static variables loaded in the JVM?
+    7. Can you explain the Delegation Hierarchy Algorithm?
+    8. What happens if the .class file is not found in any classloader?
+    9. How does Java program execution work?
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
