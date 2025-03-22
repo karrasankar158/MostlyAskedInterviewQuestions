@@ -6,6 +6,7 @@ A. OOPs (OBJECT ORIENTED PROGRAMMING):
    5. what is the Marker interface?
    6. Difference between String, StringBuffer, and StringBuilder?
    7. Explain SOLID Principles. 
+   8. What is Garbase Collector? 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 B. EXCEPTION HANDLING:
@@ -229,4 +230,10 @@ Z. HACKERRANK/LEETCODE PROGRAMS:
 AA. JUNITS/MOCKITO:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 AB. JVM ARCHITECTURE:
+    1. Difference between JDK vs JVM vs JRE?
+    2. How Java Class Loader Will works and types?
+    3. Various Memory Atreas in JVM?
+    4. What is JIT Compiler?
+    5. Which Memory Area Objects are stored?
+    6. Explain about Delegation Hierarchy Algorithm? 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
