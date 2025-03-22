@@ -187,7 +187,13 @@ O. APACHE KAFKA:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 P. SPRING CLOUD/(Microservices):
-   1. What is the Difference between Monolithic Architecture and Microservices Architecture?
+   1. What is the difference between Monolithic Architecture and Microservices Architecture?
+   2. What is an API Gateway?
+   3. What is a Config Server?
+   4. What is rate limiting at an API Gateway?
+   5. How do you configure security filters at an API Gateway?
+   6. How does the Round Robin Algorithm work in a Load Balancer?
+   7. What is a Circuit Breaker, and how does it work?
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Q. GANGE OF FOUR DESIGN PATTERNS:
