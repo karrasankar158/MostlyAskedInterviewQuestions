@@ -125,11 +125,54 @@ K. WEBSERVICES:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 L. DOCKER:
-   1. 
+   1. What is Docker?
+   2. What is a Container?
+   3. Explain three Docker terminologies.
+   4. Explain Dockerfile commands like FROM, WORKDIR, COPY, EXPOSE, ENTRYPOINT, etc.
+   5. What is Port Mapping in Docker?
+   6. How do you create a Docker image?
+   7. How do you create a container?
+   8. How do you run a Docker image?
+   9. 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 M. KUBERNETES:
-   1. 
+   1. What is a Cluster, and what are the types of clusters in Kubernetes?
+      Self-managed Cluster
+      Example: Minikube
+      Provider-managed Cluster
+      Example: AWS EKS
+   2. Explain Kubernetes architecture.
+   3. What is the Control Plane?
+   4. What is the API Server?
+   5. What is a Master Node?
+   6. What is etcd?
+   7. What is a Worker Node?
+   8. What is a Pod?
+   9. What is kubectl?
+   10. What is kubelet?
+   11. What is kube-proxy?
+   12. How do you create a Pod manifest file?
+   13. What are the components of a Kubernetes manifest file?
+       a. apiVersion
+       b. kind
+       c. metadata
+       d. spec
+    14. What is a Service in Kubernetes, and what are its types?
+      a. ClusterIP
+      b. NodePort
+      c. LoadBalancer
+    15. What is a Namespace in Kubernetes?
+    16. What are the default namespaces in Kubernetes?
+        default, kube-public, kube-system, etc.
+    17. How do you find all Pods in Kubernetes using the kubectl CLI?
+        A) kubectl get all
+    18. What is a ReplicationController (RC) in Kubernetes?
+    19. What is a ReplicaSet (RS) in Kubernetes?
+    20. What is a Deployment in Kubernetes?
+    21. What is a DaemonSet in Kubernetes?
+    22. Explain the Pod lifecycle.
+    23. 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 N. Oracle(SQL/PLSQL), MySQL/Mongo DB:
